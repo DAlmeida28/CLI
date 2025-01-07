@@ -52,3 +52,6 @@
  - Use all lowercase letters seperated by hyphens.
  - Keep your file names short and descriptive.
  - ALWAYS put a file extension on files.
+
+ # Feature Branches
+ 
