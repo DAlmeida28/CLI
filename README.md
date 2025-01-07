@@ -44,3 +44,11 @@
     - Working directory (red) Still working on it
     - stagging area (green) Are you sure you want to commit this to the project
     - project
+
+# File naming and Structure HTML and CSS Files 
+ - Don't use special characters (!, @, #, $,%, ^,&,*) Except for hyphens. 
+ - Don't use spaces, use hyphens. 
+ - Start the file name with a letter.
+ - Use all lowercase letters seperated by hyphens.
+ - Keep your file names short and descriptive.
+ - ALWAYS put a file extension on files.
