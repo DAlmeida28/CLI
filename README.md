@@ -46,6 +46,7 @@
     - project
 
 # File naming and Structure HTML and CSS Files 
+
  - Don't use special characters (!, @, #, $,%, ^,&,*) Except for hyphens. 
  - Don't use spaces, use hyphens. 
  - Start the file name with a letter.
@@ -55,6 +56,16 @@
 
  # Feature Branches
 
-    - git checkout -> Move to a new branch
-        - -b -> create a new branch
-        - [branch name] -> name of feature you're adding
+-  git checkout -> Move to a new branch
+    - -b -> create a new branch
+    - [branch name] -> name of feature you're adding
+
+- Steps 
+    - Make a feature branch
+    - make changes in code
+    - push up the feature branch to GitHub
+    - make a pull request in Github
+    - code review the changes
+    - If good, mere feature branch with main. 
+    - in VS Code go to the main branch (git checkout main)
+    - Pull the latest changes from Github (git pull nickname main)
