@@ -52,3 +52,9 @@
  - Use all lowercase letters seperated by hyphens.
  - Keep your file names short and descriptive.
  - ALWAYS put a file extension on files.
+
+ # Feature Branches
+
+    - git checkout -> Move to a new branch
+        - -b -> create a new branch
+        - [branch name] -> name of feature you're adding
